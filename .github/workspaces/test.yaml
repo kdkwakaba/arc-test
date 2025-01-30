@@ -1,6 +1,7 @@
 name: Actions Runner Controller Demo
 on:
   push:
+    [main]
   workflow_dispatch:
 
 jobs:
